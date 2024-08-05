@@ -534,7 +534,7 @@ section{
     padding: 1rem 0;
     line-height: 2;
     cursor: pointer;
-    display: block;
+     display: block; 
 }
 
 .footer .box-container .box a:hover{
